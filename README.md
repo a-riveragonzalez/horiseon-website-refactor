@@ -6,6 +6,6 @@ Added semantic elements to the HTML, reduced repetition in css, and added alt te
 
 ## GitHub Repository Link
 https://github.com/a-riveragonzalez/horiseon-website-refactor
-## 
+## Usage
 
-![alt-text](C:\Users\arelz16\bootcamp\homework\horiseon-website-refactor\assets\images\Horiseon Landing Page.gif)
+![horiseon-landing-page-example-gif](horiseon-landing-page.gif)
