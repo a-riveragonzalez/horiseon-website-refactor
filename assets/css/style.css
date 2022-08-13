@@ -103,8 +103,12 @@ footer h2 {
     background-color: #2589bd;
 }
 
+aside article {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 
-.benefit-lead {
+/* .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -116,9 +120,14 @@ footer h2 {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-} 
+}  */
 
-.benefit-lead h3 {
+aside h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -131,9 +140,15 @@ footer h2 {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+} */
+
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
-.benefit-lead img {
+/* .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -149,9 +164,19 @@ footer h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+} */
+
+
+section article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
-.search-engine-optimization {
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -176,9 +201,13 @@ footer h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+} */
+
+section img {
+    max-height: 200px;
 }
 
-.search-engine-optimization img {
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -188,9 +217,14 @@ footer h2 {
 
 .social-media-marketing img {
     max-height: 200px;
+} */
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -203,5 +237,5 @@ footer h2 {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
