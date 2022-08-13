@@ -21,9 +21,6 @@ p {
     font-size: 16px;
 }
 
-
-
-/* class selectors */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,6 +53,19 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+/* class selectors */
 
 .hero {
     height: 800px;
@@ -94,6 +104,10 @@ header nav ul li {
 }
 
 
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 .benefit-brand { 
     margin-bottom: 32px;
     color: #ffffff;
@@ -191,13 +205,3 @@ header nav ul li {
     font-size: 36px;
 }
 
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
